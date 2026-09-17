@@ -1,0 +1,7 @@
+potencia(0,79;0) = 1,00
+fatorial(0) = 1
+exponencial(0) = 1,00
+seno(0,79 rad) = 0,87
+cosseno(0,79 rad) = 1,32
+seno(0,79 graus) = 0,01
+cosseno(0,79 graus) = 1,00

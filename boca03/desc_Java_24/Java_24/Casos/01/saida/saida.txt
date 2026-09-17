@@ -1,0 +1,7 @@
+potencia(0,00;1) = 0,00
+fatorial(1) = 1
+exponencial(1) = 2,72
+seno(0,00 rad) = 0,00
+cosseno(0,00 rad) = 1,00
+seno(0,00 graus) = 0,00
+cosseno(0,00 graus) = 1,00
